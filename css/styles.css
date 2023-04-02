@@ -1,8 +1,16 @@
 .header {}
 
-.header-nav {}
+.header-nav {
 
-.header-link:hover {}
+}
+
+.header-link {
+    color:black
+}
+ 
+.header-link:hover {
+    color: #4D5AE5
+}
 
 .header-item {}
 
@@ -11,20 +19,12 @@
 .hero {}
 
 .hero-title {
-    position: absolute;
-    width: 496px;
-    height: 120px;
-    left: 472px;
-    top: 260px;
-
-    /* Header 1 */
+    
 
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 56px;
-    line-height: 60px;
-    /* or 107% */
+    
 
     text-align: center;
     letter-spacing: 0.02em;
@@ -32,18 +32,9 @@
 }
 
 .hero-btn {
-    display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-        padding: 16px 32px;
-        gap: 10px;
     
-        position: absolute;
-        width: 169px;
-        height: 56px;
-        left: 636px;
-        top: 428px;
     
+        
         /* IRIS */
     
         background: #4D5AE5;
@@ -78,4 +69,3 @@
 .team-card {}
 
 .team-text {}
-cmmb
