@@ -95,7 +95,7 @@ color: var(--hover-color);
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        color: #4d5ae5;
+        color: var(--white-color);
         cursor: pointer;
 }
 .hero-btn:focus, .hero-btn:hover {
