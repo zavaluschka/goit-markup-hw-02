@@ -184,7 +184,7 @@ color: var(--light-color);
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--logo-color);
-    background-color:#F4F4FD);
+    background-color:#F4F4FD;
     cursor: pointer;
 }
 
