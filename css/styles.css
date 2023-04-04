@@ -90,7 +90,7 @@ color: var(--hover-color);
         
         /* IRIS */
         font-family: "Roboto", sans-serif;
-        background:var(--logo-color);
+        background:var(--light-color);
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
